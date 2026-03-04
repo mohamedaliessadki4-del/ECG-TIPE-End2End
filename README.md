@@ -58,6 +58,11 @@ ECG acquisition hardware used in the project.
 Example of noisy ECG signal acquired from the AD8232 sensor.
 
 ![Raw ECG](figures/raw_ecg_signal.png)
+## Wavelet Decomposition
+
+Wavelet transform used for ECG denoising.
+
+![Wavelet decomposition](figures/wavelet_decomposition.png)
 ## Installation
 pip install -r requirements.txt
 ## Example
