@@ -53,7 +53,11 @@ src/ # project source code
 
 ECG acquisition hardware used in the project.
 ![Hardware setup](figures/hardware_setup.png)
+## Raw ECG Signal
 
+Example of noisy ECG signal acquired from the AD8232 sensor.
+
+![Raw ECG](figures/raw_ecg_signal.png)
 ## Installation
 pip install -r requirements.txt
 ## Example
