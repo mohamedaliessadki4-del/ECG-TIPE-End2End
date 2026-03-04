@@ -63,6 +63,13 @@ Example of noisy ECG signal acquired from the AD8232 sensor.
 Wavelet transform used for ECG denoising.
 
 ![Wavelet decomposition](figures/wavelet_decomposition.png)
+
+## ECG Denoising Result
+
+Comparison between noisy ECG signal and filtered signal.
+
+![ECG denoised](figures/denoised_ecg.png)
+
 ## Installation
 pip install -r requirements.txt
 ## Example
