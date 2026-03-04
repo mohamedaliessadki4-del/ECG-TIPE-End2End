@@ -52,7 +52,7 @@ src/ # project source code
 ## Hardware Setup
 
 ECG acquisition hardware used in the project.
-![Hardware setup](figures/hardware_setup.png)
+![Hardware setup](figures/Screenshot.png)
 
 ## Installation
 pip install -r requirements.txt
