@@ -70,6 +70,13 @@ Comparison between noisy ECG signal and filtered signal.
 
 ![ECG denoised](figures/denoised_ecg.png)
 
+
+## Dataset Balancing
+
+Distribution of ECG classes before and after balancing.
+
+![Dataset balancing](figures/dataset_balancing.png)
+
 ## Installation
 pip install -r requirements.txt
 ## Example
