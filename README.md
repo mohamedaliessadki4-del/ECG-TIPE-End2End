@@ -49,6 +49,11 @@ figures/ # plots and ECG signals
 scripts/ # execution scripts
 src/ # project source code
 
+## Hardware Setup
+
+ECG acquisition hardware used in the project.
+![Hardware setup](figures/hardware_setup.png)
+
 ## Installation
 pip install -r requirements.txt
 ## Example
